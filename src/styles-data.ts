@@ -18,7 +18,7 @@ export const ALL_STYLES = [
   // 기타 (ETC01~ETC19)
   // ────────────────────────────────────────
   { cat:'etc', code:'ETC01', name:'K-학습만화', 
-    prompt:'K-educational comic book style, cute chibi SD characters, bold clean outlines, vibrant high-saturation colors, clear cel shading, bright educational atmosphere, high quality 2D digital painting' },
+    prompt:'K-educational comic book style, cute chibi SD characters, bold clean outlines, vibrant high-saturation colors, clear cel shading, bright educational atmosphere, high quality 2D digital painting, no panel labels, no title text' },
   { cat:'etc', code:'ETC02', name:'어반 스케치', 
     prompt:'urban sketch style, black ink pen on textured white paper, expressive line art, cross-hatching shadows, high contrast black and white drawing, architect sketchbook aesthetic, artistic and manual feel' },
   { cat:'etc', code:'ETC03', name:'네오-하이브리드 시티', 
@@ -40,9 +40,9 @@ export const ALL_STYLES = [
   { cat:'etc', code:'ETC11', name:'서정적 하이브리드', 
     prompt:'experimental hybrid lyric art, impasto oil paint texture on handmade paper, dreamlike watercolor bleeding, sharp sunlight and shadows, avant-garde multimedia art style' },
   { cat:'etc', code:'ETC12', name:'세이넨 망가', 
-    prompt:'high-detail Seinen manga style, heavy ink hatching, dense screentones, grayscale monochrome with selective glowing neon blue and violet accents on eyes, high-tension cinematic perspective' },
+    prompt:'high-detail Seinen manga style, heavy ink hatching, dense screentones, grayscale monochrome with selective glowing neon blue and violet accents on eyes, high-tension cinematic perspective, no panel numbers, no labels' },
   { cat:'etc', code:'ETC13', name:'가이드 웹툰', 
-    prompt:'professional 2D guide webtoon style, chibi SD character design, clean bold outlines, flat cel shading with soft pastel colors, minimalist white background, clear instructional layout' },
+    prompt:'professional 2D guide webtoon style, chibi SD character design, clean bold outlines, flat cel shading with soft pastel colors, minimalist white background, clear instructional layout, no header text, no labels' },
   { cat:'etc', code:'ETC14', name:'수사 코르크 보드', 
     prompt:'detective investigation cork board style, vintage polaroids and maps pinned with red strings, moody noir atmosphere, single warm spotlight, mystery thriller aesthetic, detailed realistic textures' },
   { cat:'etc', code:'ETC15', name:'행사장 셀카 POV', 
@@ -54,7 +54,7 @@ export const ALL_STYLES = [
   { cat:'etc', code:'ETC18', name:'구름 위 산책', 
     prompt:'ethereal cinematic walk on clouds, golden hour lighting, wide shot of fluffy golden cloud sea, soft rim light, hyper-realistic textures, peaceful dreamlike composition' },
   { cat:'etc', code:'ETC19', name:'순정만화 클래식', 
-    prompt:'classic 1970s-80s shoujo manga style, large sparkling eyes with stars, falling roses and ribbons decoration, professional screentone patterns, romantic high-contrast ink lineart' },
+    prompt:'classic 1970s-80s shoujo manga style, large sparkling eyes with stars, falling roses and ribbons decoration, professional screentone patterns, romantic high-contrast ink lineart, no panel labels' },
 
   // ────────────────────────────────────────
   // 현대 웹툰 (W01~W21)
